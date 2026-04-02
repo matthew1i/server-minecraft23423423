@@ -1,0 +1,17 @@
+{
+	id: "349e4b3a-0018-34a8-a2fc-69a3b99167cc"
+	type: "player"
+	player_name: "Pilin"
+	ranks: {
+		349e4b3a-0018-34a8-a2fc-69a3b99167cc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Pilin"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9C59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
